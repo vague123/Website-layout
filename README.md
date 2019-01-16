@@ -1,2 +1,2 @@
-# Confidentials
-Comprog - B confidentials
+# Website layout
+Comprog - B website layout
